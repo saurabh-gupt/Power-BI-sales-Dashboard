@@ -32,7 +32,7 @@ The third type of dashboard, "Performance Insights," focused on analyzing the pe
 Each dashboard was designed to be interactive, allowing users to filter and drill down into specific dimensions or time periods of interest.
 
 ## Expected Outcome:
-By implementing the above solution approach, AtliQ hardware expects to achieve the following outcomes:
+By implementing the above solution approach, GlobalMart expects to achieve the following outcomes:
 
    * Enhanced Data Analysis: The connection between the SQL database and Power BI enables real-time or near-real-time analysis of the sales trend. The solution provides users with the ability to explore and analyze data more efficiently, leading to better insights and understanding.
 
